@@ -26,11 +26,3 @@ Software development intern focused on **frontend engineering, cloud-hosted web 
 | [Python Tkinter Calculator](https://github.com/jessesgithubaccount/tkinter_calculator-just_having_fun-) | Desktop GUI calculator demonstrating event-driven programming | Python, Tkinter |
 
 ---
-
-### 📊 GitHub stats
-
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessesgithubaccount&show_icons=true&theme=default)
-
----
-
-📍 Nairobi, Kenya · [LinkedIn](https://linkedin.com/in/jessemmaina)
