@@ -1,6 +1,6 @@
 # Hi, I'm Jesse Maina 👋
 
-Software development intern focused on **frontend engineering, cloud-hosted web apps, and maintainable software** — with a background in Electrical & Electronic Engineering. I like turning requirements into clean, responsive interfaces, and documenting the work properly.
+Software development intern focused on **frontend engineering, cloud-hosted web apps, and maintainable software**. I like turning requirements into clean, responsive interfaces, and documenting the work properly.
 
 - 🔭 Currently: Building frontend + cloud projects
 - 🌱 Learning: Modern Application Development (Advanced Diploma, Alison), Next.js
